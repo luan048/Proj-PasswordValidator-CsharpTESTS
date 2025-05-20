@@ -3,6 +3,8 @@
 
 ## Comandos para configurar o ambiente para rodar os testes
 
+- Inicializar estrutura do projeto
+
 ```bash
 $ dotnet new xunit -n <NomeProjeto>
 ```
